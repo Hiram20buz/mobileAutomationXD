@@ -8,3 +8,12 @@
 - java
 
 # How to install appium 
+
+npm install -g appium
+npm install -g appium-doctor
+
+or 
+npm install -g appium -force
+npm install -g appium-doctor -force
+
+appium 
